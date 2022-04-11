@@ -1,4 +1,4 @@
-### Hi there, i m Sinem 👋
+### Hi there, I'm Sinem 👋
 
 
 
