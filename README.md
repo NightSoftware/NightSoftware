@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -👩‍💻I'm currently working on cybersecurity(metasploitable2, virtualbox, wireshark)
 
--💻I'm interested in software, application development and cybersecurity
+-💻I'm interested in software, application development, data mining and cybersecurity
 
 -🔊Volunteer of  audiobook narrator for the visually impaired
 
