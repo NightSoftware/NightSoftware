@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 -💻I'm interested in software, application development, data mining and cybersecurity
 
--🔊Volunteer of  audiobook narrator for the visually impaired
+
 
 -->
