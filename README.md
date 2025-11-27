@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -👩‍💻I'm currently working on cybersecurity(linux, virtualbox, wireshark)
 
--💻I'm interested in software, application development, data mining and cybersecurity
+-💻I'm interested in software, data mining and cybersecurity
 
 
 
